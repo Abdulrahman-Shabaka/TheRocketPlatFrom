@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{7CC32F69-3C46-4385-BB9D-A19BF6827E41}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/abdulrahmanhassan/InternalStorage/learning/ITI/GP/TheRocket/projects/Backend/TheRocket/TheRocket/Controllers/SellerController.cs" relfile="TheRocket/Controllers/SellerController.cs" line="23" column="1" />
+      <Breakpoint file="/Users/abdulrahmanhassan/InternalStorage/learning/ITI/GP/TheRocket/projects/Backend/TheRocket/TheRocket/Repositories/AddressRepo.cs" relfile="TheRocket/Repositories/AddressRepo.cs" line="112" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheRocket/Dtos/ProductDto/ProductColorDot.cs">
+    <Files>
+      <File FileName="TheRocket/Program.cs" Line="78" Column="33" />
+      <File FileName="TheRocket/Entities/Subscrip.cs" />
+      <File FileName="TheRocket/Entities/ReserveCart.cs" />
+      <File FileName="TheRocket/appsettings.Development.json" />
+      <File FileName="TheRocket/TheRocketDbContexts/TheRocketDbContext.cs" />
+      <File FileName="TheRocket/AutoMapper/PlanMapper.cs" />
+      <File FileName="TheRocket/Dtos/PlanDto.cs" Line="1" Column="1" />
+      <File FileName="TheRocket/Repositories/PlanRepository.cs" />
+      <File FileName="TheRocket/Entities/Plan.cs" />
+      <File FileName="TheRocket/Entities/Users/AppUser.cs" />
+      <File FileName="TheRocket/Dtos/UserDtos/SellerDto.cs" />
+      <File FileName="TheRocket/Entities/Users/Seller.cs" />
+      <File FileName="TheRocket/Entities/Users/Address.cs" />
+      <File FileName="TheRocket/Dtos/ProductDto/ColorDto.cs" Line="1" Column="1" />
+      <File FileName="TheRocket/Dtos/ProductDto/ProductColorDot.cs" Line="5" Column="31" />
+      <File FileName="TheRocket/Dtos/OrderDto.cs" Line="1" Column="1" />
+      <File FileName="TheRocket/Dtos/SubCategoryDto.cs" Line="1" Column="1" />
+      <File FileName="TheRocket/Dtos/ReserveCartDto.cs" Line="1" Column="1" />
+      <File FileName="TheRocket/Dtos/ProductDto/SizeDto.cs" Line="1" Column="1" />
+      <File FileName="TheRocket/Repositories/FeedbackRepo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TheRocket" expanded="True">
+            <Node name="TheRocket" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Dtos" expanded="True">
+                <Node name="ProductDto" expanded="True">
+                  <Node name="ProductColorDot.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Entities" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TheRocket PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
